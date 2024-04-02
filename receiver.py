@@ -86,7 +86,7 @@ def main():
     print(f"Number of packets received: {packet_count}")
 
 
-banner = """
+banner = r"""
 
           $$\                            $$$$$$\                                              $$\                     
           \__|                          $$  __$$\                                             $$ |                    
